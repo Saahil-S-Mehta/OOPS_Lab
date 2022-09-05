@@ -1,0 +1,28 @@
+Enter first complex no:3 5
+First complex no: 3 + 5i
+
+Enter second complex no:4 9
+Second complex no: 4 + 9i
+
+
+1.ADD 
+2.SUB 
+3.EXIT 
+
+Enter your choice: 1
+Sum: 7 + 14i
+
+1.ADD 
+2.SUB 
+3.EXIT 
+
+Enter your choice: 2
+Difference: -1 - 4i
+
+1.ADD 
+2.SUB 
+3.EXIT 
+
+Enter your choice: 3
+
+Process finished with exit code 0

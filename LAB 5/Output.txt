@@ -1,0 +1,7 @@
+LION : Hunting
+LION : Roar
+LION : Roar
+
+SNAKE : Hunting
+SNAKE : Roar
+SNAKE : Sleeping

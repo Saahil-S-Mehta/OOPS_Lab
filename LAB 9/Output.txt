@@ -1,0 +1,335 @@
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:1
+Enter the String: 5
+Enter the String: 9
+Enter the String: 8
+Enter the String: 7
+Enter the String: 4
+Enter the String: STOP
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:2
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:7
+ARRAYLIST	-->	[5, 9, 8, 7, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:8
+AUX ARRAYLIST	-->	[]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:9
+AUX ARRAY	-->	[5, 9, 8, 7, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:6
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:8
+AUX ARRAYLIST	-->	[5, 9, 8, 7, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:4 
+Size of ArrayList S: 5
+Enter Valid Index [0, 4]
+Enter Start Index: 1
+Enter End Index of the Sublist: 3
+Sublist: [9, 8]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:5
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:7
+ARRAYLIST	-->	[4, 5, 7, 8, 9]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:8
+AUX ARRAYLIST	-->	[5, 9, 8, 7, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:6
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:3
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:7
+ARRAYLIST	-->	[9, 8, 7, 5, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:8
+AUX ARRAYLIST	-->	[4, 5, 7, 8, 9]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:9
+AUX ARRAY	-->	[5, 9, 8, 7, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:11
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:7
+ARRAYLIST	-->	[]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:8
+AUX ARRAYLIST	-->	[4, 5, 7, 8, 9]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList
+Any other number to Exit:9
+AUX ARRAY	-->	[5, 9, 8, 7, 4]
+
+
+*************************************************************************************************
+1) Add String Elements to ArrayList
+2) Copy ArrayList to Array
+3) Reverse ArrayList content
+4) Get Sub list from the ArrayList.
+5) Sort the ArrayList
+6) Clone the ArrayList to another ArrayList
+7) Display ArrayList
+8) Display Aux ArrayList
+9) Display Aux Array
+10) Delete Last Item from ArrayList
+11) Clear ArrayList

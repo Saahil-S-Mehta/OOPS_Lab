@@ -1,0 +1,8 @@
+Cylinder 1:		Radius : 1.0 		Height : 1.0 		Color : Red 		Base Area : 3.141592653589793 		Volume : 3.141592653589793
+Cylinder 2:		Radius : 2.0 		Height : 5.0 		Color : Red 		Base Area : 12.566370614359172 		Volume : 62.83185307179586
+Cylinder 3:		Radius : 2.0 		Height : 5.0 		Color : Red 		Base Area : 12.566370614359172 		Volume : 62.83185307179586
+
+
+Cylinder 1 and Cylinder 2 are not similar 
+Cylinder 2 and Cylinder 3 are similar 
+Cylinder 3 and Cylinder 1 are not similar 

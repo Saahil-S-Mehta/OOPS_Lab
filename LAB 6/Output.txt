@@ -1,0 +1,108 @@
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 1
+
+Enter the amount to DEPOSITE and CURRENCY TYPE
+7000
+old
+
+Deposite of old currency of (Rs.7000.0) crosses Rs.5,000 and CANNOT be Deposited
+
+
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 1
+
+Enter the amount to DEPOSITE and CURRENCY TYPE
+200
+old
+
+
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 2
+
+Enter the amount to withdraw
+400
+
+Can't Withdraw (Minimum balance needs to be 500)
+
+Current Balance =700.0
+
+
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 2
+
+Enter the amount to withdraw
+1000
+
+INSUFFICIENT FUNDS
+
+Current Balance =700.0
+
+
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 2
+
+Enter the amount to withdraw
+100
+
+Current Balance =600.0
+
+
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 3
+
+Current Balance =600.0
+
+
+************************************************
+
+
+1.DEPOSITE
+2.WITHDRAW
+3.GET BALANCE
+4.EXIT
+
+Enter your choice: 4
+
+Process finished with exit code 0

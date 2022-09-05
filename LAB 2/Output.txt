@@ -1,0 +1,32 @@
+Enter
+ 1. Student
+ 2. Employees
+ 3. College
+1
+
+Enter the number of students
+3
+
+
+Enter Student 1 Address details
+123 Bangalore Karnataka India
+Enter Student 1 USN and NAME
+123 ABC
+
+
+Enter Student 2 Address details
+456 Chennai TamilNadu India
+Enter Student 2 USN and NAME
+456 XYZ
+
+
+Enter Student 3 Address details
+789 Chennai TamilNadu India
+Enter Student 3 USN and NAME
+789 MNO
+
+Student 1 Details- 	 USN: 123		Name: ABC		Street Number: 123		City: Bangalore		State: Karnataka		Country: India
+
+Student 2 Details- 	 USN: 456		Name: XYZ		Street Number: 456		City: Chennai		State: TamilNadu		Country: India
+
+Student 3 Details- 	 USN: 789		Name: MNO		Street Number: 789		City: Chennai		State: TamilNadu		Country: India
